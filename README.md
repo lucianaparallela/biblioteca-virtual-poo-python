@@ -1,6 +1,6 @@
 ## Trabajo Practico Final Programación Avanzada: Desarrollo de Biblioteca Virtual Universitaria
 
-### Integrantes: Camila Belén Gonzalez, Luciana Sol Parallela.
+### Integrantes: Luciana Sol Parallela, Camila Belén Gonzalez,.
 
 #### Descripción breve del trabajo:
 
@@ -20,7 +20,7 @@ El sistema contempla distintos tipos de usuarios (Estudiante, Profesor y Adminis
 * `usuario.py`
 * `libro.py`
 * `prestamo.py`
-* `historial_prestamos.py`
+* `HistorialPrestamos.py`
 * `decoradores.py`
 * `metaclase.py`
 
