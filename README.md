@@ -53,4 +53,5 @@ biblioteca = Singleton()
 
 El diagrama UML del sistema se encuentra en:
 
-docs/Diagrama UML.drawio.png
+
+docs/Diagrama UML.drawi
