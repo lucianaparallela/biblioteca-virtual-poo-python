@@ -1,6 +1,6 @@
 ## Trabajo Practico Final Programación Avanzada: Desarrollo de Biblioteca Virtual Universitaria
 
-### Integrantes: Luciana Sol Parallela, Camila Belén Gonzalez,.
+### Integrantes: Luciana Sol Parallela, Camila Belén Gonzalez.
 
 #### Descripción breve del trabajo:
 
